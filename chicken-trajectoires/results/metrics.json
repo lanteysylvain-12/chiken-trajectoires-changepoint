@@ -1,0 +1,6 @@
+{
+  "erreur_absolue_mediane": 4.0,
+  "erreur_absolue_moyenne": 7.708333333333333,
+  "taux_detection_vraie_rupture": 0.84,
+  "taux_fausses_alarmes_sans_rupture": 0.0
+}
